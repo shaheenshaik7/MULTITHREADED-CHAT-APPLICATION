@@ -28,3 +28,8 @@ Collaborative Application Tools like Google Docs or Trello require real-time syn
 The Multithreaded-Chat-Application is platform independent the code is run in Visual Studio Code in this JDK and java libraries are used. The Chat Application is socket-based client server Communication. The code is runs in command line javac and java. With modifications, this foundation can be applied in various domains like chat systems, games, customer support, and collaborative applications.
 
 
+##OUTPUT
+
+
+![Image](https://github.com/user-attachments/assets/31c4b641-d721-4a54-9820-de0801f4567a)
+
